@@ -1,0 +1,28 @@
+
+Difference b/w Dispose and Finalize
+what object methods .TOString()
+what is difference b/w == and equals
+what is diff static and singleton
+what is Object,var and Dynamic.
+
+
+============================================================================
+Sql Server
+Diff b/w union and union all
+Diff b/w Stored Procedure and Function
+why in View we cannot use order by clause.
+Diff b/w @table and temp table.
+================================================================================
+Asp.net
+1.What is PostBack and AutoPostback
+2.what is __doPostback
+3.SqlBulk Copy
+4.What are State Management techniques.
+5.Factory Pattern
+6. we have two datatables how we can compare it.
+=======================================================================
+WCF
+1.Diff b/w wcf and web services
+2.What are endpoints
+3.what is behaviour confirguration
+4.What is DataContract Serializer and Xml Serializer
