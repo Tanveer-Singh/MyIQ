@@ -4,12 +4,13 @@ what object methods .TOString()
 what is difference b/w == and equals
 what is diff static and singleton
 what is Object,var and Dynamic.
-
+Diff b/w Abstract and Interface
+why json over xml
 
 ============================================================================
 Sql Server
 Diff b/w union and union all
-Diff b/w Stored Procedure and Function
+Diff b/w Stored Procedure and Function and Views
 why in View we cannot use order by clause.
 Diff b/w @table and temp table.
 ================================================================================
@@ -20,9 +21,20 @@ Asp.net
 4.What are State Management techniques.
 5.Factory Pattern
 6. we have two datatables how we can compare it.
+7. By Default what type of Session it is ?
+8.Session and its types
 =======================================================================
 WCF
 1.Diff b/w wcf and web services
 2.What are endpoints
 3.what is behaviour confirguration
 4.What is DataContract Serializer and Xml Serializer
+============================================================================
+LINQ
+1.Diff b/w Linq and Lamba
+2.Linq Joins
+=================================================
+Javascript
+1.Diff b.w =,==,===
+=================================================
+Diff b.w web services,wcf and web api
