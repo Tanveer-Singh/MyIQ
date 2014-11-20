@@ -1,0 +1,18 @@
+Database
+1.Normalization
+2.Joins
+
+
+=========================================================
+asp.net
+1.application variable session variable static variable
+
+=========================================================
+Logics
+1.reverse of string
+2.remove duplicate from string
+3.swapping of number with /without 3rd variable
+4.Bubble sort
+5.Array.reverse
+6.Plaindrome
+7.factorial
